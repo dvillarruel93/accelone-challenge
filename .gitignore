@@ -1,0 +1,7 @@
+# IDEs
+*.vscode
+*.idea
+*.nvimrc
+
+# MAC cache files
+*.DS_Store
